@@ -1,0 +1,8252 @@
+[
+    {
+        "timestamp": 1774596831.3139596,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1735,
+                "y": 943
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596831.4657702,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596831.6459746,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596831.7530642,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596831.88348,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596832.0090659,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596832.1092324,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596832.220425,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596832.3462164,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1731,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596839.5376115,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1463,
+                "y": 790
+            },
+            {
+                "label": "fruit",
+                "x": 1463,
+                "y": 780
+            },
+            {
+                "label": "fruit",
+                "x": 1484,
+                "y": 766
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596842.6894946,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1414,
+                "y": 1046
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596842.8215194,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1405,
+                "y": 927
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596842.9465966,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1398,
+                "y": 761
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.0683186,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1370,
+                "y": 637
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.183189,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1384,
+                "y": 590
+            },
+            {
+                "label": "fruit",
+                "x": 1377,
+                "y": 555
+            },
+            {
+                "label": "fruit",
+                "x": 1372,
+                "y": 505
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.2972236,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1401,
+                "y": 468
+            },
+            {
+                "label": "fruit",
+                "x": 1366,
+                "y": 648
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.4156716,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1398,
+                "y": 456
+            },
+            {
+                "label": "fruit",
+                "x": 1355,
+                "y": 676
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.533316,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1340,
+                "y": 793
+            },
+            {
+                "label": "fruit",
+                "x": 1396,
+                "y": 538
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.6532567,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1335,
+                "y": 955
+            },
+            {
+                "label": "fruit",
+                "x": 1403,
+                "y": 669
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596843.7655737,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1403,
+                "y": 977
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.231605,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1159,
+                "y": 1037
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.363459,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1112,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.4886343,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1050,
+                "y": 752
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.606673,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 994,
+                "y": 596
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.727557,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 934,
+                "y": 473
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.848498,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 888,
+                "y": 401
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596845.9690852,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 831,
+                "y": 334
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.0791552,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 831,
+                "y": 334
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.1886766,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 831,
+                "y": 334
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.3247976,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 697,
+                "y": 355
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.439422,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 569,
+                "y": 380
+            },
+            {
+                "label": "fruit",
+                "x": 767,
+                "y": 417
+            },
+            {
+                "label": "fruit",
+                "x": 637,
+                "y": 363
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.5730665,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 508,
+                "y": 448
+            },
+            {
+                "label": "fruit",
+                "x": 778,
+                "y": 505
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.6837096,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 454,
+                "y": 553
+            },
+            {
+                "label": "fruit",
+                "x": 805,
+                "y": 629
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596846.8130972,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 373,
+                "y": 790
+            },
+            {
+                "label": "fruit",
+                "x": 826,
+                "y": 887
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596848.3330276,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1016,
+                "y": 1044
+            },
+            {
+                "label": "fruit",
+                "x": 1452,
+                "y": 1053
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596848.4554842,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 745,
+                "y": 967
+            },
+            {
+                "label": "fruit",
+                "x": 1454,
+                "y": 935
+            },
+            {
+                "label": "fruit",
+                "x": 997,
+                "y": 935
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596848.5859325,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 742,
+                "y": 789
+            },
+            {
+                "label": "fruit",
+                "x": 1467,
+                "y": 742
+            },
+            {
+                "label": "fruit",
+                "x": 972,
+                "y": 743
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596848.7064002,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1477,
+                "y": 583
+            },
+            {
+                "label": "fruit",
+                "x": 737,
+                "y": 642
+            },
+            {
+                "label": "fruit",
+                "x": 960,
+                "y": 577
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596848.8181646,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1491,
+                "y": 486
+            },
+            {
+                "label": "fruit",
+                "x": 735,
+                "y": 553
+            },
+            {
+                "label": "fruit",
+                "x": 955,
+                "y": 468
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596848.942052,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1502,
+                "y": 381
+            },
+            {
+                "label": "fruit",
+                "x": 735,
+                "y": 463
+            },
+            {
+                "label": "fruit",
+                "x": 937,
+                "y": 371
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.0596747,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1513,
+                "y": 319
+            },
+            {
+                "label": "fruit",
+                "x": 729,
+                "y": 413
+            },
+            {
+                "label": "fruit",
+                "x": 925,
+                "y": 303
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.1819217,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1553,
+                "y": 263
+            },
+            {
+                "label": "fruit",
+                "x": 732,
+                "y": 351
+            },
+            {
+                "label": "fruit",
+                "x": 800,
+                "y": 466
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.3052685,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1549,
+                "y": 267
+            },
+            {
+                "label": "fruit",
+                "x": 800,
+                "y": 584
+            },
+            {
+                "label": "fruit",
+                "x": 669,
+                "y": 348
+            },
+            {
+                "label": "fruit",
+                "x": 778,
+                "y": 242
+            },
+            {
+                "label": "fruit",
+                "x": 538,
+                "y": 483
+            },
+            {
+                "label": "fruit",
+                "x": 985,
+                "y": 375
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.4390707,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 807,
+                "y": 748
+            },
+            {
+                "label": "fruit",
+                "x": 1553,
+                "y": 281
+            },
+            {
+                "label": "fruit",
+                "x": 584,
+                "y": 409
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.54947,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1566,
+                "y": 314
+            },
+            {
+                "label": "fruit",
+                "x": 820,
+                "y": 959
+            },
+            {
+                "label": "fruit",
+                "x": 552,
+                "y": 552
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.6704817,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 510,
+                "y": 855
+            },
+            {
+                "label": "fruit",
+                "x": 1079,
+                "y": 318
+            },
+            {
+                "label": "fruit",
+                "x": 1557,
+                "y": 407
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.7878969,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 880,
+                "y": 335
+            },
+            {
+                "label": "fruit",
+                "x": 1612,
+                "y": 444
+            },
+            {
+                "label": "fruit",
+                "x": 1077,
+                "y": 312
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596849.9133952,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1674,
+                "y": 590
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596850.0378199,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1716,
+                "y": 783
+            },
+            {
+                "label": "fruit",
+                "x": 1467,
+                "y": 479
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596850.1530805,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1753,
+                "y": 995
+            },
+            {
+                "label": "fruit",
+                "x": 1443,
+                "y": 612
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596850.2759583,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1411,
+                "y": 822
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596851.8492568,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1023,
+                "y": 1005
+            },
+            {
+                "label": "fruit",
+                "x": 667,
+                "y": 1019
+            },
+            {
+                "label": "fruit",
+                "x": 1276,
+                "y": 976
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596851.970654,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 693,
+                "y": 857
+            },
+            {
+                "label": "fruit",
+                "x": 1069,
+                "y": 835
+            },
+            {
+                "label": "fruit",
+                "x": 1234,
+                "y": 791
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.0807528,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1205,
+                "y": 642
+            },
+            {
+                "label": "fruit",
+                "x": 718,
+                "y": 747
+            },
+            {
+                "label": "fruit",
+                "x": 1100,
+                "y": 719
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.1811817,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1128,
+                "y": 626
+            },
+            {
+                "label": "fruit",
+                "x": 737,
+                "y": 661
+            },
+            {
+                "label": "fruit",
+                "x": 1180,
+                "y": 537
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.2980888,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1149,
+                "y": 403
+            },
+            {
+                "label": "fruit",
+                "x": 764,
+                "y": 558
+            },
+            {
+                "label": "fruit",
+                "x": 1164,
+                "y": 529
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.4153554,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 783,
+                "y": 505
+            },
+            {
+                "label": "fruit",
+                "x": 1127,
+                "y": 347
+            },
+            {
+                "label": "fruit",
+                "x": 1180,
+                "y": 471
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.5357904,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1110,
+                "y": 311
+            },
+            {
+                "label": "fruit",
+                "x": 797,
+                "y": 484
+            },
+            {
+                "label": "fruit",
+                "x": 1199,
+                "y": 442
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.6521962,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 794,
+                "y": 502
+            },
+            {
+                "label": "fruit",
+                "x": 1258,
+                "y": 533
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.7600543,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 832,
+                "y": 609
+            },
+            {
+                "label": "fruit",
+                "x": 721,
+                "y": 408
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596852.8810608,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 857,
+                "y": 740
+            },
+            {
+                "label": "fruit",
+                "x": 986,
+                "y": 509
+            },
+            {
+                "label": "fruit",
+                "x": 1274,
+                "y": 751
+            },
+            {
+                "label": "fruit",
+                "x": 1100,
+                "y": 224
+            },
+            {
+                "label": "fruit",
+                "x": 711,
+                "y": 454
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596853.0086417,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1309,
+                "y": 953
+            },
+            {
+                "label": "fruit",
+                "x": 891,
+                "y": 919
+            },
+            {
+                "label": "fruit",
+                "x": 681,
+                "y": 535
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596853.1378047,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1103,
+                "y": 852
+            },
+            {
+                "label": "fruit",
+                "x": 638,
+                "y": 857
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596854.909409,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 689,
+                "y": 989
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.020864,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 686,
+                "y": 899
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.1490452,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 689,
+                "y": 788
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.2785585,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 696,
+                "y": 697
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.3945081,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 724,
+                "y": 632
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.5128646,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 731,
+                "y": 598
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.6425588,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 732,
+                "y": 543
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.7676258,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 737,
+                "y": 524
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596855.914126,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 750,
+                "y": 486
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.0285752,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 761,
+                "y": 492
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.1562867,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 758,
+                "y": 508
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.2868989,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 766,
+                "y": 547
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.4011533,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 766,
+                "y": 593
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.515317,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 761,
+                "y": 634
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.6367342,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 750,
+                "y": 732
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.7489078,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 753,
+                "y": 798
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596856.8704655,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 749,
+                "y": 925
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596857.0014517,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 746,
+                "y": 1021
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596858.541468,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 963,
+                "y": 1031
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596858.658233,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 999,
+                "y": 927
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596858.784663,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1046,
+                "y": 783
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596858.9039826,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1098,
+                "y": 675
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596859.0243456,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1130,
+                "y": 612
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596859.2555356,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1162,
+                "y": 537
+            },
+            {
+                "label": "fruit",
+                "x": 1355,
+                "y": 1036
+            },
+            {
+                "label": "fruit",
+                "x": 1249,
+                "y": 579
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596859.3791196,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1367,
+                "y": 873
+            },
+            {
+                "label": "fruit",
+                "x": 1338,
+                "y": 640
+            },
+            {
+                "label": "fruit",
+                "x": 1096,
+                "y": 522
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596859.5018306,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1397,
+                "y": 740
+            },
+            {
+                "label": "fruit",
+                "x": 1049,
+                "y": 611
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596859.619222,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1464,
+                "y": 932
+            },
+            {
+                "label": "fruit",
+                "x": 1028,
+                "y": 736
+            },
+            {
+                "label": "fruit",
+                "x": 1392,
+                "y": 606
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596859.7534916,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 968,
+                "y": 1020
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.039042,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 652,
+                "y": 937
+            },
+            {
+                "label": "fruit",
+                "x": 1479,
+                "y": 562
+            },
+            {
+                "label": "fruit",
+                "x": 1336,
+                "y": 478
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.1630487,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1310,
+                "y": 587
+            },
+            {
+                "label": "fruit",
+                "x": 687,
+                "y": 752
+            },
+            {
+                "label": "fruit",
+                "x": 1507,
+                "y": 694
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.2878213,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 723,
+                "y": 599
+            },
+            {
+                "label": "fruit",
+                "x": 1282,
+                "y": 805
+            },
+            {
+                "label": "fruit",
+                "x": 1531,
+                "y": 936
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.4186323,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 754,
+                "y": 477
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.6520014,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 817,
+                "y": 1024
+            },
+            {
+                "label": "fruit",
+                "x": 774,
+                "y": 337
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.7813492,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 846,
+                "y": 867
+            },
+            {
+                "label": "fruit",
+                "x": 871,
+                "y": 501
+            },
+            {
+                "label": "fruit",
+                "x": 742,
+                "y": 291
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596860.8982134,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 722,
+                "y": 316
+            },
+            {
+                "label": "fruit",
+                "x": 898,
+                "y": 682
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.0253866,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 899,
+                "y": 603
+            },
+            {
+                "label": "fruit",
+                "x": 954,
+                "y": 815
+            },
+            {
+                "label": "fruit",
+                "x": 703,
+                "y": 410
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.1580155,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 678,
+                "y": 665
+            },
+            {
+                "label": "fruit",
+                "x": 929,
+                "y": 492
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.4087858,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1377,
+                "y": 966
+            },
+            {
+                "label": "fruit",
+                "x": 1004,
+                "y": 490
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.5338418,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1393,
+                "y": 793
+            },
+            {
+                "label": "fruit",
+                "x": 1036,
+                "y": 579
+            },
+            {
+                "label": "fruit",
+                "x": 868,
+                "y": 345
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.651281,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1404,
+                "y": 678
+            },
+            {
+                "label": "fruit",
+                "x": 1065,
+                "y": 702
+            },
+            {
+                "label": "fruit",
+                "x": 833,
+                "y": 393
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.7788625,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1093,
+                "y": 962
+            },
+            {
+                "label": "fruit",
+                "x": 1416,
+                "y": 553
+            },
+            {
+                "label": "fruit",
+                "x": 799,
+                "y": 557
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596861.9090405,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 760,
+                "y": 867
+            },
+            {
+                "label": "fruit",
+                "x": 1428,
+                "y": 461
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.0392404,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1436,
+                "y": 404
+            },
+            {
+                "label": "fruit",
+                "x": 1242,
+                "y": 1026
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.1483407,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1229,
+                "y": 893
+            },
+            {
+                "label": "fruit",
+                "x": 1432,
+                "y": 408
+            },
+            {
+                "label": "fruit",
+                "x": 1398,
+                "y": 408
+            },
+            {
+                "label": "fruit",
+                "x": 1443,
+                "y": 375
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.2628155,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1210,
+                "y": 734
+            },
+            {
+                "label": "fruit",
+                "x": 1338,
+                "y": 455
+            },
+            {
+                "label": "fruit",
+                "x": 1545,
+                "y": 350
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.3906796,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1590,
+                "y": 383
+            },
+            {
+                "label": "fruit",
+                "x": 1299,
+                "y": 526
+            },
+            {
+                "label": "fruit",
+                "x": 1190,
+                "y": 620
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.504274,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1641,
+                "y": 507
+            },
+            {
+                "label": "fruit",
+                "x": 1165,
+                "y": 496
+            },
+            {
+                "label": "fruit",
+                "x": 1240,
+                "y": 712
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.638168,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1698,
+                "y": 758
+            },
+            {
+                "label": "fruit",
+                "x": 1194,
+                "y": 998
+            },
+            {
+                "label": "fruit",
+                "x": 1147,
+                "y": 398
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.7599413,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 782,
+                "y": 1026
+            },
+            {
+                "label": "fruit",
+                "x": 1742,
+                "y": 1024
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596862.882107,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 778,
+                "y": 879
+            },
+            {
+                "label": "fruit",
+                "x": 1505,
+                "y": 504
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.008896,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 774,
+                "y": 720
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.1331096,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 772,
+                "y": 591
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.3733847,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 769,
+                "y": 442
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.623516,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 688,
+                "y": 345
+            },
+            {
+                "label": "fruit",
+                "x": 690,
+                "y": 379
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.7559264,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 810,
+                "y": 599
+            },
+            {
+                "label": "fruit",
+                "x": 637,
+                "y": 362
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.875207,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 834,
+                "y": 784
+            },
+            {
+                "label": "fruit",
+                "x": 584,
+                "y": 461
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596863.9921827,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 539,
+                "y": 611
+            },
+            {
+                "label": "fruit",
+                "x": 842,
+                "y": 989
+            },
+            {
+                "label": "fruit",
+                "x": 939,
+                "y": 439
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596864.119104,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 483,
+                "y": 921
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596865.4336503,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1393,
+                "y": 1000
+            },
+            {
+                "label": "fruit",
+                "x": 649,
+                "y": 1025
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596865.553845,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1376,
+                "y": 915
+            },
+            {
+                "label": "fruit",
+                "x": 643,
+                "y": 887
+            },
+            {
+                "label": "fruit",
+                "x": 1220,
+                "y": 893
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596865.6649864,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 636,
+                "y": 701
+            },
+            {
+                "label": "bomb",
+                "x": 1373,
+                "y": 747
+            },
+            {
+                "label": "fruit",
+                "x": 1173,
+                "y": 714
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596865.7937503,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1378,
+                "y": 640
+            },
+            {
+                "label": "fruit",
+                "x": 627,
+                "y": 585
+            },
+            {
+                "label": "fruit",
+                "x": 1117,
+                "y": 601
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596865.9029677,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1075,
+                "y": 470
+            },
+            {
+                "label": "fruit",
+                "x": 623,
+                "y": 457
+            },
+            {
+                "label": "bomb",
+                "x": 1393,
+                "y": 538
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.04305,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 613,
+                "y": 359
+            },
+            {
+                "label": "fruit",
+                "x": 1024,
+                "y": 379
+            },
+            {
+                "label": "bomb",
+                "x": 1411,
+                "y": 476
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.1718564,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 603,
+                "y": 303
+            },
+            {
+                "label": "bomb",
+                "x": 1418,
+                "y": 417
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.2850106,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 594,
+                "y": 271
+            },
+            {
+                "label": "fruit",
+                "x": 959,
+                "y": 296
+            },
+            {
+                "label": "fruit",
+                "x": 941,
+                "y": 250
+            },
+            {
+                "label": "bomb",
+                "x": 1426,
+                "y": 395
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.3991604,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1437,
+                "y": 411
+            },
+            {
+                "label": "fruit",
+                "x": 588,
+                "y": 261
+            },
+            {
+                "label": "fruit",
+                "x": 880,
+                "y": 211
+            },
+            {
+                "label": "fruit",
+                "x": 880,
+                "y": 235
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.5189598,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1456,
+                "y": 436
+            },
+            {
+                "label": "fruit",
+                "x": 993,
+                "y": 565
+            },
+            {
+                "label": "fruit",
+                "x": 844,
+                "y": 242
+            },
+            {
+                "label": "fruit",
+                "x": 582,
+                "y": 274
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.6344705,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 997,
+                "y": 810
+            },
+            {
+                "label": "fruit",
+                "x": 792,
+                "y": 366
+            },
+            {
+                "label": "bomb",
+                "x": 1461,
+                "y": 471
+            },
+            {
+                "label": "fruit",
+                "x": 571,
+                "y": 318
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.7552395,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1471,
+                "y": 530
+            },
+            {
+                "label": "fruit",
+                "x": 755,
+                "y": 538
+            },
+            {
+                "label": "fruit",
+                "x": 1005,
+                "y": 1040
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.8608136,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1461,
+                "y": 652
+            },
+            {
+                "label": "fruit",
+                "x": 607,
+                "y": 502
+            },
+            {
+                "label": "fruit",
+                "x": 711,
+                "y": 911
+            },
+            {
+                "label": "fruit",
+                "x": 562,
+                "y": 311
+            },
+            {
+                "label": "fruit",
+                "x": 557,
+                "y": 289
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596866.973362,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1447,
+                "y": 741
+            },
+            {
+                "label": "fruit",
+                "x": 634,
+                "y": 597
+            },
+            {
+                "label": "fruit",
+                "x": 562,
+                "y": 334
+            },
+            {
+                "label": "fruit",
+                "x": 511,
+                "y": 251
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596867.0837834,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1446,
+                "y": 866
+            },
+            {
+                "label": "fruit",
+                "x": 658,
+                "y": 752
+            },
+            {
+                "label": "fruit",
+                "x": 577,
+                "y": 399
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596867.19078,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1447,
+                "y": 1012
+            },
+            {
+                "label": "fruit",
+                "x": 566,
+                "y": 566
+            },
+            {
+                "label": "fruit",
+                "x": 690,
+                "y": 1032
+            },
+            {
+                "label": "fruit",
+                "x": 640,
+                "y": 380
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596867.3114471,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 569,
+                "y": 797
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596868.7147028,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1338,
+                "y": 985
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596868.849132,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1305,
+                "y": 792
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596868.9769874,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1271,
+                "y": 626
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.1080782,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1245,
+                "y": 490
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.2242026,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1220,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.357054,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1190,
+                "y": 372
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.4693556,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1296,
+                "y": 969
+            },
+            {
+                "label": "fruit",
+                "x": 1144,
+                "y": 345
+            },
+            {
+                "label": "fruit",
+                "x": 1169,
+                "y": 333
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.5891445,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1280,
+                "y": 833
+            },
+            {
+                "label": "fruit",
+                "x": 1116,
+                "y": 380
+            },
+            {
+                "label": "fruit",
+                "x": 1257,
+                "y": 320
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.716202,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1071,
+                "y": 489
+            },
+            {
+                "label": "fruit",
+                "x": 1266,
+                "y": 679
+            },
+            {
+                "label": "fruit",
+                "x": 1281,
+                "y": 413
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.8417985,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1037,
+                "y": 695
+            },
+            {
+                "label": "fruit",
+                "x": 1300,
+                "y": 590
+            },
+            {
+                "label": "fruit",
+                "x": 1250,
+                "y": 559
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596869.96333,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1011,
+                "y": 960
+            },
+            {
+                "label": "fruit",
+                "x": 1314,
+                "y": 840
+            },
+            {
+                "label": "fruit",
+                "x": 1237,
+                "y": 492
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.202871,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 759,
+                "y": 921
+            },
+            {
+                "label": "fruit",
+                "x": 1146,
+                "y": 441
+            },
+            {
+                "label": "fruit",
+                "x": 1222,
+                "y": 407
+            },
+            {
+                "label": "fruit",
+                "x": 1187,
+                "y": 439
+            },
+            {
+                "label": "fruit",
+                "x": 1254,
+                "y": 432
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.3433692,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 800,
+                "y": 751
+            },
+            {
+                "label": "fruit",
+                "x": 1070,
+                "y": 465
+            },
+            {
+                "label": "fruit",
+                "x": 1351,
+                "y": 437
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.4761965,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 841,
+                "y": 607
+            },
+            {
+                "label": "fruit",
+                "x": 1401,
+                "y": 541
+            },
+            {
+                "label": "fruit",
+                "x": 996,
+                "y": 603
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.5817053,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 870,
+                "y": 524
+            },
+            {
+                "label": "fruit",
+                "x": 952,
+                "y": 760
+            },
+            {
+                "label": "fruit",
+                "x": 1453,
+                "y": 699
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.7094793,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 914,
+                "y": 439
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.8165486,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 930,
+                "y": 1024
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596870.9436603,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 877,
+                "y": 834
+            },
+            {
+                "label": "fruit",
+                "x": 1019,
+                "y": 444
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.0489905,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1070,
+                "y": 507
+            },
+            {
+                "label": "fruit",
+                "x": 836,
+                "y": 701
+            },
+            {
+                "label": "fruit",
+                "x": 798,
+                "y": 390
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.1641586,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1139,
+                "y": 657
+            },
+            {
+                "label": "fruit",
+                "x": 770,
+                "y": 549
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.284584,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1201,
+                "y": 842
+            },
+            {
+                "label": "fruit",
+                "x": 705,
+                "y": 641
+            },
+            {
+                "label": "fruit",
+                "x": 737,
+                "y": 457
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.4091957,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 685,
+                "y": 361
+            },
+            {
+                "label": "fruit",
+                "x": 651,
+                "y": 974
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.5260248,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 641,
+                "y": 313
+            },
+            {
+                "label": "fruit",
+                "x": 1262,
+                "y": 1005
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.6490757,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1232,
+                "y": 824
+            },
+            {
+                "label": "fruit",
+                "x": 583,
+                "y": 273
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.77121,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 527,
+                "y": 265
+            },
+            {
+                "label": "fruit",
+                "x": 1218,
+                "y": 666
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596871.892743,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 518,
+                "y": 276
+            },
+            {
+                "label": "fruit",
+                "x": 486,
+                "y": 251
+            },
+            {
+                "label": "fruit",
+                "x": 473,
+                "y": 235
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.0051055,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 592,
+                "y": 358
+            },
+            {
+                "label": "fruit",
+                "x": 437,
+                "y": 205
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.140244,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 627,
+                "y": 491
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.2744226,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 329,
+                "y": 383
+            },
+            {
+                "label": "fruit",
+                "x": 1008,
+                "y": 950
+            },
+            {
+                "label": "fruit",
+                "x": 667,
+                "y": 711
+            },
+            {
+                "label": "fruit",
+                "x": 1140,
+                "y": 301
+            },
+            {
+                "label": "fruit",
+                "x": 1164,
+                "y": 302
+            },
+            {
+                "label": "fruit",
+                "x": 1207,
+                "y": 474
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.379379,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1019,
+                "y": 806
+            },
+            {
+                "label": "fruit",
+                "x": 696,
+                "y": 960
+            },
+            {
+                "label": "fruit",
+                "x": 284,
+                "y": 585
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.5054615,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1033,
+                "y": 645
+            },
+            {
+                "label": "fruit",
+                "x": 1161,
+                "y": 437
+            },
+            {
+                "label": "fruit",
+                "x": 251,
+                "y": 969
+            },
+            {
+                "label": "fruit",
+                "x": 1192,
+                "y": 432
+            },
+            {
+                "label": "fruit",
+                "x": 1120,
+                "y": 227
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.6191437,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1048,
+                "y": 547
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.7311418,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1050,
+                "y": 457
+            },
+            {
+                "label": "fruit",
+                "x": 1001,
+                "y": 436
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.8585706,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1152,
+                "y": 828
+            },
+            {
+                "label": "fruit",
+                "x": 1111,
+                "y": 487
+            },
+            {
+                "label": "fruit",
+                "x": 1014,
+                "y": 367
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596872.9916022,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 983,
+                "y": 355
+            },
+            {
+                "label": "fruit",
+                "x": 1011,
+                "y": 941
+            },
+            {
+                "label": "fruit",
+                "x": 1194,
+                "y": 537
+            },
+            {
+                "label": "fruit",
+                "x": 1117,
+                "y": 645
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.0977376,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1243,
+                "y": 681
+            },
+            {
+                "label": "fruit",
+                "x": 1039,
+                "y": 790
+            },
+            {
+                "label": "fruit",
+                "x": 937,
+                "y": 423
+            },
+            {
+                "label": "fruit",
+                "x": 1115,
+                "y": 1041
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.2158954,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1294,
+                "y": 851
+            },
+            {
+                "label": "fruit",
+                "x": 915,
+                "y": 526
+            },
+            {
+                "label": "fruit",
+                "x": 1053,
+                "y": 696
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.3455384,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 867,
+                "y": 827
+            },
+            {
+                "label": "fruit",
+                "x": 1097,
+                "y": 602
+            },
+            {
+                "label": "fruit",
+                "x": 1059,
+                "y": 608
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.4714537,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1123,
+                "y": 521
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.5907393,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1118,
+                "y": 492
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.7110345,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 985,
+                "y": 436
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.839176,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1254,
+                "y": 531
+            },
+            {
+                "label": "fruit",
+                "x": 966,
+                "y": 530
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596873.9614496,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1307,
+                "y": 599
+            },
+            {
+                "label": "fruit",
+                "x": 953,
+                "y": 592
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596874.0906804,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1377,
+                "y": 778
+            },
+            {
+                "label": "fruit",
+                "x": 906,
+                "y": 798
+            },
+            {
+                "label": "fruit",
+                "x": 952,
+                "y": 833
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596874.203528,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1447,
+                "y": 1041
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596875.5031486,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 670,
+                "y": 986
+            },
+            {
+                "label": "fruit",
+                "x": 620,
+                "y": 979
+            },
+            {
+                "label": "bomb",
+                "x": 700,
+                "y": 994
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596875.6183336,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 707,
+                "y": 874
+            },
+            {
+                "label": "fruit",
+                "x": 627,
+                "y": 806
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596875.737546,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 742,
+                "y": 730
+            },
+            {
+                "label": "fruit",
+                "x": 653,
+                "y": 637
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596875.8684876,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 798,
+                "y": 636
+            },
+            {
+                "label": "fruit",
+                "x": 675,
+                "y": 488
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596875.9903433,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 692,
+                "y": 399
+            },
+            {
+                "label": "bomb",
+                "x": 862,
+                "y": 604
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.1020696,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 714,
+                "y": 307
+            },
+            {
+                "label": "bomb",
+                "x": 947,
+                "y": 580
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.21615,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 994,
+                "y": 560
+            },
+            {
+                "label": "fruit",
+                "x": 728,
+                "y": 257
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.3388507,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1062,
+                "y": 590
+            },
+            {
+                "label": "fruit",
+                "x": 733,
+                "y": 207
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.448136,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1128,
+                "y": 613
+            },
+            {
+                "label": "fruit",
+                "x": 755,
+                "y": 188
+            },
+            {
+                "label": "fruit",
+                "x": 758,
+                "y": 151
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.572427,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 811,
+                "y": 378
+            },
+            {
+                "label": "bomb",
+                "x": 1190,
+                "y": 667
+            },
+            {
+                "label": "fruit",
+                "x": 771,
+                "y": 119
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.6884644,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1257,
+                "y": 736
+            },
+            {
+                "label": "fruit",
+                "x": 836,
+                "y": 486
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.8214912,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1308,
+                "y": 867
+            },
+            {
+                "label": "fruit",
+                "x": 872,
+                "y": 730
+            },
+            {
+                "label": "fruit",
+                "x": 806,
+                "y": 266
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596876.9403474,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1369,
+                "y": 998
+            },
+            {
+                "label": "fruit",
+                "x": 819,
+                "y": 515
+            },
+            {
+                "label": "fruit",
+                "x": 913,
+                "y": 1049
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596877.0831013,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 838,
+                "y": 941
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596878.4158413,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1403,
+                "y": 1017
+            },
+            {
+                "label": "fruit",
+                "x": 812,
+                "y": 1020
+            },
+            {
+                "label": "fruit",
+                "x": 1213,
+                "y": 1034
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596878.5412507,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1412,
+                "y": 818
+            },
+            {
+                "label": "fruit",
+                "x": 812,
+                "y": 838
+            },
+            {
+                "label": "fruit",
+                "x": 1222,
+                "y": 921
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596878.6515117,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1422,
+                "y": 681
+            },
+            {
+                "label": "fruit",
+                "x": 812,
+                "y": 706
+            },
+            {
+                "label": "fruit",
+                "x": 1231,
+                "y": 784
+            },
+            {
+                "label": "fruit",
+                "x": 1203,
+                "y": 796
+            },
+            {
+                "label": "fruit",
+                "x": 1179,
+                "y": 816
+            },
+            {
+                "label": "fruit",
+                "x": 1222,
+                "y": 822
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596878.7546237,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1433,
+                "y": 524
+            },
+            {
+                "label": "fruit",
+                "x": 814,
+                "y": 552
+            },
+            {
+                "label": "fruit",
+                "x": 1280,
+                "y": 670
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596878.8831022,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1441,
+                "y": 422
+            },
+            {
+                "label": "fruit",
+                "x": 813,
+                "y": 461
+            },
+            {
+                "label": "fruit",
+                "x": 1280,
+                "y": 578
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596878.9963589,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 814,
+                "y": 368
+            },
+            {
+                "label": "fruit",
+                "x": 1452,
+                "y": 328
+            },
+            {
+                "label": "fruit",
+                "x": 1310,
+                "y": 498
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596879.1101468,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 766,
+                "y": 322
+            },
+            {
+                "label": "fruit",
+                "x": 1457,
+                "y": 227
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596879.230581,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 637,
+                "y": 492
+            },
+            {
+                "label": "fruit",
+                "x": 718,
+                "y": 261
+            },
+            {
+                "label": "fruit",
+                "x": 1296,
+                "y": 557
+            },
+            {
+                "label": "fruit",
+                "x": 1460,
+                "y": 220
+            },
+            {
+                "label": "fruit",
+                "x": 1486,
+                "y": 770
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596879.3569694,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 567,
+                "y": 574
+            },
+            {
+                "label": "fruit",
+                "x": 679,
+                "y": 266
+            },
+            {
+                "label": "fruit",
+                "x": 1417,
+                "y": 682
+            },
+            {
+                "label": "fruit",
+                "x": 1471,
+                "y": 281
+            },
+            {
+                "label": "fruit",
+                "x": 1163,
+                "y": 608
+            },
+            {
+                "label": "fruit",
+                "x": 1403,
+                "y": 698
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596879.4619758,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 489,
+                "y": 776
+            },
+            {
+                "label": "fruit",
+                "x": 642,
+                "y": 350
+            },
+            {
+                "label": "fruit",
+                "x": 1433,
+                "y": 953
+            },
+            {
+                "label": "fruit",
+                "x": 1488,
+                "y": 427
+            },
+            {
+                "label": "fruit",
+                "x": 1483,
+                "y": 398
+            },
+            {
+                "label": "fruit",
+                "x": 1454,
+                "y": 303
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596879.5788078,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 602,
+                "y": 498
+            },
+            {
+                "label": "fruit",
+                "x": 411,
+                "y": 1004
+            },
+            {
+                "label": "fruit",
+                "x": 1509,
+                "y": 663
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596879.6876824,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1519,
+                "y": 979
+            },
+            {
+                "label": "fruit",
+                "x": 562,
+                "y": 739
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.0393531,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1277,
+                "y": 1030
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.1757863,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1263,
+                "y": 932
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.321853,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1252,
+                "y": 755
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.4288483,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1240,
+                "y": 637
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.5387776,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1239,
+                "y": 541
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.65188,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 56,
+                "y": 465
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.7791402,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1346,
+                "y": 915
+            },
+            {
+                "label": "fruit",
+                "x": 117,
+                "y": 385
+            },
+            {
+                "label": "fruit",
+                "x": 1069,
+                "y": 691
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596881.9014344,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 246,
+                "y": 369
+            },
+            {
+                "label": "fruit",
+                "x": 1207,
+                "y": 654
+            },
+            {
+                "label": "fruit",
+                "x": 1173,
+                "y": 647
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.0301092,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 359,
+                "y": 351
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.1494038,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 453,
+                "y": 345
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.2554858,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 577,
+                "y": 345
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.364958,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1404,
+                "y": 978
+            },
+            {
+                "label": "fruit",
+                "x": 668,
+                "y": 356
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.5038242,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1661,
+                "y": 553
+            },
+            {
+                "label": "fruit",
+                "x": 965,
+                "y": 548
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.6279633,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 962,
+                "y": 560
+            },
+            {
+                "label": "fruit",
+                "x": 1807,
+                "y": 679
+            },
+            {
+                "label": "fruit",
+                "x": 752,
+                "y": 254
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.726934,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 957,
+                "y": 558
+            },
+            {
+                "label": "fruit",
+                "x": 1828,
+                "y": 730
+            },
+            {
+                "label": "fruit",
+                "x": 692,
+                "y": 234
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.838611,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1830,
+                "y": 678
+            },
+            {
+                "label": "fruit",
+                "x": 863,
+                "y": 493
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596882.9467707,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1835,
+                "y": 632
+            },
+            {
+                "label": "fruit",
+                "x": 873,
+                "y": 464
+            },
+            {
+                "label": "fruit",
+                "x": 1195,
+                "y": 644
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.0746639,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1009,
+                "y": 371
+            },
+            {
+                "label": "fruit",
+                "x": 1837,
+                "y": 529
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.1836977,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1833,
+                "y": 492
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.2983663,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1814,
+                "y": 520
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.4207878,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1805,
+                "y": 532
+            },
+            {
+                "label": "fruit",
+                "x": 940,
+                "y": 381
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.5481312,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 839,
+                "y": 467
+            },
+            {
+                "label": "fruit",
+                "x": 1708,
+                "y": 619
+            },
+            {
+                "label": "fruit",
+                "x": 789,
+                "y": 497
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.6703732,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1652,
+                "y": 636
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.804243,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1569,
+                "y": 666
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596883.9133203,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1716,
+                "y": 749
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.033866,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1754,
+                "y": 762
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.1588962,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1784,
+                "y": 772
+            },
+            {
+                "label": "fruit",
+                "x": 893,
+                "y": 686
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.2789083,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1767,
+                "y": 760
+            },
+            {
+                "label": "fruit",
+                "x": 968,
+                "y": 714
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.3990679,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1760,
+                "y": 755
+            },
+            {
+                "label": "fruit",
+                "x": 964,
+                "y": 709
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.5261369,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1759,
+                "y": 752
+            },
+            {
+                "label": "fruit",
+                "x": 964,
+                "y": 703
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.6462324,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1820,
+                "y": 783
+            },
+            {
+                "label": "fruit",
+                "x": 1040,
+                "y": 728
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.7726593,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1074,
+                "y": 744
+            },
+            {
+                "label": "fruit",
+                "x": 1830,
+                "y": 796
+            },
+            {
+                "label": "fruit",
+                "x": 961,
+                "y": 746
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.87754,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1810,
+                "y": 691
+            },
+            {
+                "label": "fruit",
+                "x": 897,
+                "y": 634
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596884.985988,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1807,
+                "y": 679
+            },
+            {
+                "label": "fruit",
+                "x": 1004,
+                "y": 643
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.0959716,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1758,
+                "y": 570
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.1967404,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1758,
+                "y": 588
+            },
+            {
+                "label": "fruit",
+                "x": 881,
+                "y": 553
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.315575,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1702,
+                "y": 458
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.4304717,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1689,
+                "y": 428
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.549051,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1414,
+                "y": 822
+            },
+            {
+                "label": "fruit",
+                "x": 1330,
+                "y": 249
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.668501,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1276,
+                "y": 236
+            },
+            {
+                "label": "bomb",
+                "x": 1400,
+                "y": 775
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.7806451,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1390,
+                "y": 771
+            },
+            {
+                "label": "fruit",
+                "x": 1353,
+                "y": 305
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596885.9044394,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1398,
+                "y": 762
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.0391817,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1410,
+                "y": 767
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.1412804,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1512,
+                "y": 827
+            },
+            {
+                "label": "fruit",
+                "x": 819,
+                "y": 361
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.2489033,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1784,
+                "y": 1018
+            },
+            {
+                "label": "fruit",
+                "x": 869,
+                "y": 410
+            },
+            {
+                "label": "fruit",
+                "x": 1498,
+                "y": 165
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.3631883,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 813,
+                "y": 402
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.4858928,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 880,
+                "y": 419
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.5985816,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 766,
+                "y": 446
+            },
+            {
+                "label": "fruit",
+                "x": 794,
+                "y": 420
+            },
+            {
+                "label": "fruit",
+                "x": 850,
+                "y": 361
+            },
+            {
+                "label": "fruit",
+                "x": 947,
+                "y": 455
+            },
+            {
+                "label": "fruit",
+                "x": 751,
+                "y": 472
+            },
+            {
+                "label": "fruit",
+                "x": 851,
+                "y": 315
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.7192326,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 912,
+                "y": 520
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.8263347,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 986,
+                "y": 423
+            },
+            {
+                "label": "fruit",
+                "x": 973,
+                "y": 561
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596886.9263515,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 965,
+                "y": 554
+            },
+            {
+                "label": "fruit",
+                "x": 957,
+                "y": 586
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596887.0432448,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 569,
+                "y": 726
+            },
+            {
+                "label": "fruit",
+                "x": 825,
+                "y": 178
+            },
+            {
+                "label": "fruit",
+                "x": 604,
+                "y": 325
+            },
+            {
+                "label": "fruit",
+                "x": 731,
+                "y": 619
+            },
+            {
+                "label": "fruit",
+                "x": 1121,
+                "y": 273
+            },
+            {
+                "label": "fruit",
+                "x": 1035,
+                "y": 685
+            },
+            {
+                "label": "fruit",
+                "x": 954,
+                "y": 571
+            },
+            {
+                "label": "fruit",
+                "x": 1034,
+                "y": 121
+            },
+            {
+                "label": "fruit",
+                "x": 537,
+                "y": 442
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596887.146015,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 394,
+                "y": 973
+            },
+            {
+                "label": "fruit",
+                "x": 1003,
+                "y": 769
+            },
+            {
+                "label": "fruit",
+                "x": 619,
+                "y": 790
+            },
+            {
+                "label": "fruit",
+                "x": 417,
+                "y": 315
+            },
+            {
+                "label": "fruit",
+                "x": 1147,
+                "y": 885
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596887.2695155,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1740,
+                "y": 820
+            },
+            {
+                "label": "fruit",
+                "x": 60,
+                "y": 196
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596888.7634792,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 678,
+                "y": 1036
+            },
+            {
+                "label": "fruit",
+                "x": 1234,
+                "y": 1041
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596888.8675148,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1227,
+                "y": 857
+            },
+            {
+                "label": "fruit",
+                "x": 707,
+                "y": 882
+            },
+            {
+                "label": "fruit",
+                "x": 975,
+                "y": 943
+            },
+            {
+                "label": "fruit",
+                "x": 1464,
+                "y": 856
+            },
+            {
+                "label": "fruit",
+                "x": 1202,
+                "y": 863
+            },
+            {
+                "label": "fruit",
+                "x": 809,
+                "y": 910
+            },
+            {
+                "label": "fruit",
+                "x": 941,
+                "y": 940
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596888.9893885,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 715,
+                "y": 745
+            },
+            {
+                "label": "fruit",
+                "x": 1013,
+                "y": 824
+            },
+            {
+                "label": "fruit",
+                "x": 1205,
+                "y": 719
+            },
+            {
+                "label": "fruit",
+                "x": 1495,
+                "y": 690
+            },
+            {
+                "label": "fruit",
+                "x": 1175,
+                "y": 723
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.1052504,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1044,
+                "y": 697
+            },
+            {
+                "label": "fruit",
+                "x": 738,
+                "y": 586
+            },
+            {
+                "label": "fruit",
+                "x": 1208,
+                "y": 552
+            },
+            {
+                "label": "fruit",
+                "x": 1509,
+                "y": 602
+            },
+            {
+                "label": "fruit",
+                "x": 812,
+                "y": 707
+            },
+            {
+                "label": "fruit",
+                "x": 1181,
+                "y": 559
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.2377214,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1201,
+                "y": 445
+            },
+            {
+                "label": "fruit",
+                "x": 1066,
+                "y": 621
+            },
+            {
+                "label": "fruit",
+                "x": 753,
+                "y": 491
+            },
+            {
+                "label": "fruit",
+                "x": 1520,
+                "y": 535
+            },
+            {
+                "label": "fruit",
+                "x": 726,
+                "y": 567
+            },
+            {
+                "label": "fruit",
+                "x": 728,
+                "y": 615
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.344153,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1094,
+                "y": 549
+            },
+            {
+                "label": "fruit",
+                "x": 778,
+                "y": 390
+            },
+            {
+                "label": "fruit",
+                "x": 713,
+                "y": 550
+            },
+            {
+                "label": "fruit",
+                "x": 1540,
+                "y": 388
+            },
+            {
+                "label": "fruit",
+                "x": 1211,
+                "y": 337
+            },
+            {
+                "label": "fruit",
+                "x": 1518,
+                "y": 499
+            },
+            {
+                "label": "fruit",
+                "x": 1520,
+                "y": 455
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.495899,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1138,
+                "y": 515
+            },
+            {
+                "label": "fruit",
+                "x": 1213,
+                "y": 287
+            },
+            {
+                "label": "fruit",
+                "x": 782,
+                "y": 316
+            },
+            {
+                "label": "fruit",
+                "x": 1519,
+                "y": 403
+            },
+            {
+                "label": "fruit",
+                "x": 691,
+                "y": 581
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.6138418,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 675,
+                "y": 636
+            },
+            {
+                "label": "fruit",
+                "x": 1194,
+                "y": 498
+            },
+            {
+                "label": "fruit",
+                "x": 1588,
+                "y": 382
+            },
+            {
+                "label": "fruit",
+                "x": 1256,
+                "y": 302
+            },
+            {
+                "label": "fruit",
+                "x": 1157,
+                "y": 671
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.7388334,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 651,
+                "y": 757
+            },
+            {
+                "label": "fruit",
+                "x": 1114,
+                "y": 913
+            },
+            {
+                "label": "fruit",
+                "x": 764,
+                "y": 554
+            },
+            {
+                "label": "fruit",
+                "x": 1160,
+                "y": 534
+            },
+            {
+                "label": "fruit",
+                "x": 1605,
+                "y": 438
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.8517215,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 754,
+                "y": 639
+            },
+            {
+                "label": "fruit",
+                "x": 643,
+                "y": 851
+            },
+            {
+                "label": "fruit",
+                "x": 1239,
+                "y": 552
+            },
+            {
+                "label": "fruit",
+                "x": 1616,
+                "y": 471
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596889.976005,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1249,
+                "y": 656
+            },
+            {
+                "label": "fruit",
+                "x": 732,
+                "y": 886
+            },
+            {
+                "label": "fruit",
+                "x": 1330,
+                "y": 895
+            },
+            {
+                "label": "fruit",
+                "x": 1624,
+                "y": 547
+            },
+            {
+                "label": "fruit",
+                "x": 668,
+                "y": 651
+            },
+            {
+                "label": "fruit",
+                "x": 1183,
+                "y": 539
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596890.0855544,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1258,
+                "y": 741
+            },
+            {
+                "label": "fruit",
+                "x": 1644,
+                "y": 627
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596890.2238276,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1270,
+                "y": 910
+            },
+            {
+                "label": "fruit",
+                "x": 1122,
+                "y": 589
+            },
+            {
+                "label": "fruit",
+                "x": 787,
+                "y": 1013
+            },
+            {
+                "label": "fruit",
+                "x": 1671,
+                "y": 748
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596890.3526392,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1077,
+                "y": 749
+            },
+            {
+                "label": "fruit",
+                "x": 1660,
+                "y": 864
+            },
+            {
+                "label": "fruit",
+                "x": 1676,
+                "y": 654
+            },
+            {
+                "label": "fruit",
+                "x": 1717,
+                "y": 874
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596890.4877636,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1669,
+                "y": 719
+            },
+            {
+                "label": "fruit",
+                "x": 1063,
+                "y": 1025
+            },
+            {
+                "label": "fruit",
+                "x": 1746,
+                "y": 1005
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596890.6068404,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1704,
+                "y": 847
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596890.7115514,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1727,
+                "y": 1007
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596891.998702,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 642,
+                "y": 1020
+            },
+            {
+                "label": "fruit",
+                "x": 1257,
+                "y": 1013
+            },
+            {
+                "label": "fruit",
+                "x": 815,
+                "y": 1006
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.1233401,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 620,
+                "y": 883
+            },
+            {
+                "label": "fruit",
+                "x": 1274,
+                "y": 864
+            },
+            {
+                "label": "fruit",
+                "x": 831,
+                "y": 877
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.2341397,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 855,
+                "y": 701
+            },
+            {
+                "label": "fruit",
+                "x": 1303,
+                "y": 676
+            },
+            {
+                "label": "fruit",
+                "x": 601,
+                "y": 705
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.3494124,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 582,
+                "y": 593
+            },
+            {
+                "label": "fruit",
+                "x": 869,
+                "y": 588
+            },
+            {
+                "label": "fruit",
+                "x": 1319,
+                "y": 558
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.469548,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 889,
+                "y": 463
+            },
+            {
+                "label": "fruit",
+                "x": 555,
+                "y": 466
+            },
+            {
+                "label": "fruit",
+                "x": 1347,
+                "y": 428
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.5869884,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1360,
+                "y": 346
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.7237916,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 965,
+                "y": 730
+            },
+            {
+                "label": "fruit",
+                "x": 529,
+                "y": 294
+            },
+            {
+                "label": "fruit",
+                "x": 1387,
+                "y": 272
+            },
+            {
+                "label": "fruit",
+                "x": 498,
+                "y": 440
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.8308809,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 507,
+                "y": 552
+            },
+            {
+                "label": "fruit",
+                "x": 504,
+                "y": 259
+            },
+            {
+                "label": "fruit",
+                "x": 1400,
+                "y": 213
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596892.9448678,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 491,
+                "y": 295
+            },
+            {
+                "label": "fruit",
+                "x": 484,
+                "y": 677
+            },
+            {
+                "label": "fruit",
+                "x": 1435,
+                "y": 355
+            },
+            {
+                "label": "fruit",
+                "x": 1373,
+                "y": 143
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596893.0565655,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 457,
+                "y": 927
+            },
+            {
+                "label": "fruit",
+                "x": 1460,
+                "y": 458
+            },
+            {
+                "label": "fruit",
+                "x": 475,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596893.1633883,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1472,
+                "y": 610
+            },
+            {
+                "label": "fruit",
+                "x": 1345,
+                "y": 212
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596893.2754803,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1491,
+                "y": 825
+            },
+            {
+                "label": "fruit",
+                "x": 1327,
+                "y": 331
+            },
+            {
+                "label": "fruit",
+                "x": 442,
+                "y": 901
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596893.3974874,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1305,
+                "y": 631
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596893.5201738,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1291,
+                "y": 969
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596894.9075525,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1241,
+                "y": 915
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.035365,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1228,
+                "y": 753
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.1606429,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1206,
+                "y": 645
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.270387,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1179,
+                "y": 535
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.3857124,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1170,
+                "y": 473
+            },
+            {
+                "label": "fruit",
+                "x": 1081,
+                "y": 1049
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.5162315,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1086,
+                "y": 928
+            },
+            {
+                "label": "fruit",
+                "x": 1163,
+                "y": 417
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.6434762,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1126,
+                "y": 394
+            },
+            {
+                "label": "fruit",
+                "x": 1100,
+                "y": 741
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.7668746,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1124,
+                "y": 584
+            },
+            {
+                "label": "fruit",
+                "x": 1101,
+                "y": 400
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.8789282,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1133,
+                "y": 488
+            },
+            {
+                "label": "fruit",
+                "x": 1082,
+                "y": 429
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596895.9835746,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1150,
+                "y": 402
+            },
+            {
+                "label": "fruit",
+                "x": 1071,
+                "y": 475
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.1032562,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1165,
+                "y": 332
+            },
+            {
+                "label": "bomb",
+                "x": 941,
+                "y": 919
+            },
+            {
+                "label": "fruit",
+                "x": 1052,
+                "y": 568
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.2123706,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 904,
+                "y": 772
+            },
+            {
+                "label": "fruit",
+                "x": 1182,
+                "y": 293
+            },
+            {
+                "label": "fruit",
+                "x": 1033,
+                "y": 671
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.3188717,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 865,
+                "y": 630
+            },
+            {
+                "label": "fruit",
+                "x": 1196,
+                "y": 275
+            },
+            {
+                "label": "fruit",
+                "x": 1022,
+                "y": 763
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.4318047,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1207,
+                "y": 271
+            },
+            {
+                "label": "bomb",
+                "x": 829,
+                "y": 518
+            },
+            {
+                "label": "fruit",
+                "x": 1011,
+                "y": 884
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.5489566,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1228,
+                "y": 298
+            },
+            {
+                "label": "bomb",
+                "x": 773,
+                "y": 393
+            },
+            {
+                "label": "fruit",
+                "x": 986,
+                "y": 1039
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.6769567,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1239,
+                "y": 358
+            },
+            {
+                "label": "fruit",
+                "x": 1074,
+                "y": 983
+            },
+            {
+                "label": "bomb",
+                "x": 733,
+                "y": 285
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.7828796,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1065,
+                "y": 839
+            },
+            {
+                "label": "bomb",
+                "x": 700,
+                "y": 247
+            },
+            {
+                "label": "fruit",
+                "x": 1187,
+                "y": 407
+            },
+            {
+                "label": "fruit",
+                "x": 1311,
+                "y": 384
+            },
+            {
+                "label": "fruit",
+                "x": 1249,
+                "y": 403
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596896.8979614,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1142,
+                "y": 473
+            },
+            {
+                "label": "fruit",
+                "x": 1048,
+                "y": 677
+            },
+            {
+                "label": "bomb",
+                "x": 647,
+                "y": 229
+            },
+            {
+                "label": "fruit",
+                "x": 1398,
+                "y": 431
+            },
+            {
+                "label": "fruit",
+                "x": 981,
+                "y": 1003
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.0219593,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 610,
+                "y": 240
+            },
+            {
+                "label": "fruit",
+                "x": 1433,
+                "y": 500
+            },
+            {
+                "label": "fruit",
+                "x": 1090,
+                "y": 560
+            },
+            {
+                "label": "fruit",
+                "x": 983,
+                "y": 1005
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.1362445,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1020,
+                "y": 463
+            },
+            {
+                "label": "fruit",
+                "x": 1494,
+                "y": 677
+            },
+            {
+                "label": "bomb",
+                "x": 564,
+                "y": 266
+            },
+            {
+                "label": "fruit",
+                "x": 1052,
+                "y": 763
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.24899,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1547,
+                "y": 890
+            },
+            {
+                "label": "fruit",
+                "x": 1006,
+                "y": 401
+            },
+            {
+                "label": "fruit",
+                "x": 1024,
+                "y": 982
+            },
+            {
+                "label": "fruit",
+                "x": 1433,
+                "y": 999
+            },
+            {
+                "label": "bomb",
+                "x": 536,
+                "y": 309
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.3826652,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 990,
+                "y": 345
+            },
+            {
+                "label": "bomb",
+                "x": 514,
+                "y": 404
+            },
+            {
+                "label": "fruit",
+                "x": 1451,
+                "y": 811
+            },
+            {
+                "label": "fruit",
+                "x": 984,
+                "y": 1006
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.5052984,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 487,
+                "y": 537
+            },
+            {
+                "label": "fruit",
+                "x": 979,
+                "y": 321
+            },
+            {
+                "label": "fruit",
+                "x": 1468,
+                "y": 629
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.6345754,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 963,
+                "y": 331
+            },
+            {
+                "label": "bomb",
+                "x": 451,
+                "y": 665
+            },
+            {
+                "label": "fruit",
+                "x": 1483,
+                "y": 484
+            },
+            {
+                "label": "fruit",
+                "x": 983,
+                "y": 1004
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.751502,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1489,
+                "y": 391
+            },
+            {
+                "label": "bomb",
+                "x": 435,
+                "y": 803
+            },
+            {
+                "label": "fruit",
+                "x": 983,
+                "y": 1005
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.8681555,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1081,
+                "y": 975
+            },
+            {
+                "label": "fruit",
+                "x": 1499,
+                "y": 299
+            },
+            {
+                "label": "bomb",
+                "x": 407,
+                "y": 978
+            },
+            {
+                "label": "fruit",
+                "x": 903,
+                "y": 448
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596897.9837909,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 877,
+                "y": 537
+            },
+            {
+                "label": "bomb",
+                "x": 1081,
+                "y": 819
+            },
+            {
+                "label": "fruit",
+                "x": 1507,
+                "y": 246
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.1030025,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 837,
+                "y": 719
+            },
+            {
+                "label": "bomb",
+                "x": 1025,
+                "y": 630
+            },
+            {
+                "label": "fruit",
+                "x": 1523,
+                "y": 208
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.2121553,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 814,
+                "y": 923
+            },
+            {
+                "label": "fruit",
+                "x": 1537,
+                "y": 198
+            },
+            {
+                "label": "fruit",
+                "x": 1183,
+                "y": 738
+            },
+            {
+                "label": "bomb",
+                "x": 975,
+                "y": 521
+            },
+            {
+                "label": "fruit",
+                "x": 1565,
+                "y": 198
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.3334377,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 940,
+                "y": 393
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.4481719,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 895,
+                "y": 334
+            },
+            {
+                "label": "fruit",
+                "x": 1533,
+                "y": 141
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.574146,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 846,
+                "y": 284
+            },
+            {
+                "label": "fruit",
+                "x": 1547,
+                "y": 400
+            },
+            {
+                "label": "fruit",
+                "x": 1490,
+                "y": 398
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.6783261,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 802,
+                "y": 265
+            },
+            {
+                "label": "fruit",
+                "x": 1566,
+                "y": 515
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.7971764,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1486,
+                "y": 496
+            },
+            {
+                "label": "bomb",
+                "x": 750,
+                "y": 258
+            },
+            {
+                "label": "fruit",
+                "x": 1579,
+                "y": 762
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596898.9228928,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 724,
+                "y": 280
+            },
+            {
+                "label": "fruit",
+                "x": 1589,
+                "y": 1036
+            },
+            {
+                "label": "fruit",
+                "x": 1477,
+                "y": 747
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596899.0394306,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 695,
+                "y": 349
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596899.1718738,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 674,
+                "y": 446
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596899.3074598,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 629,
+                "y": 546
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596899.4149547,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 612,
+                "y": 647
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596899.536234,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 588,
+                "y": 799
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596899.6512783,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 559,
+                "y": 946
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.0776672,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 689,
+                "y": 1029
+            },
+            {
+                "label": "bomb",
+                "x": 1061,
+                "y": 1030
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.1975813,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 682,
+                "y": 880
+            },
+            {
+                "label": "fruit",
+                "x": 1220,
+                "y": 931
+            },
+            {
+                "label": "bomb",
+                "x": 1045,
+                "y": 884
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.322578,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 707,
+                "y": 747
+            },
+            {
+                "label": "fruit",
+                "x": 1217,
+                "y": 811
+            },
+            {
+                "label": "bomb",
+                "x": 1048,
+                "y": 750
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.4366145,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 736,
+                "y": 593
+            },
+            {
+                "label": "fruit",
+                "x": 1211,
+                "y": 675
+            },
+            {
+                "label": "bomb",
+                "x": 1049,
+                "y": 538
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.5512102,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1046,
+                "y": 381
+            },
+            {
+                "label": "fruit",
+                "x": 1221,
+                "y": 590
+            },
+            {
+                "label": "fruit",
+                "x": 1071,
+                "y": 616
+            },
+            {
+                "label": "bomb",
+                "x": 766,
+                "y": 514
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.6879535,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1084,
+                "y": 544
+            },
+            {
+                "label": "fruit",
+                "x": 1221,
+                "y": 511
+            },
+            {
+                "label": "bomb",
+                "x": 1048,
+                "y": 205
+            },
+            {
+                "label": "bomb",
+                "x": 818,
+                "y": 425
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.808089,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1230,
+                "y": 458
+            },
+            {
+                "label": "fruit",
+                "x": 1105,
+                "y": 501
+            },
+            {
+                "label": "bomb",
+                "x": 1040,
+                "y": 89
+            },
+            {
+                "label": "bomb",
+                "x": 851,
+                "y": 345
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596901.914985,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1116,
+                "y": 490
+            },
+            {
+                "label": "fruit",
+                "x": 1242,
+                "y": 442
+            },
+            {
+                "label": "bomb",
+                "x": 870,
+                "y": 331
+            },
+            {
+                "label": "bomb",
+                "x": 1054,
+                "y": 57
+            },
+            {
+                "label": "fruit",
+                "x": 1160,
+                "y": 464
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.0392294,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1245,
+                "y": 450
+            },
+            {
+                "label": "fruit",
+                "x": 1130,
+                "y": 502
+            },
+            {
+                "label": "bomb",
+                "x": 914,
+                "y": 294
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.1435401,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1153,
+                "y": 575
+            },
+            {
+                "label": "fruit",
+                "x": 1209,
+                "y": 404
+            },
+            {
+                "label": "bomb",
+                "x": 934,
+                "y": 309
+            },
+            {
+                "label": "fruit",
+                "x": 1297,
+                "y": 478
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.2733898,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1161,
+                "y": 701
+            },
+            {
+                "label": "fruit",
+                "x": 1352,
+                "y": 577
+            },
+            {
+                "label": "bomb",
+                "x": 969,
+                "y": 364
+            },
+            {
+                "label": "fruit",
+                "x": 1049,
+                "y": 494
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.3860087,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1166,
+                "y": 837
+            },
+            {
+                "label": "fruit",
+                "x": 1395,
+                "y": 691
+            },
+            {
+                "label": "fruit",
+                "x": 996,
+                "y": 555
+            },
+            {
+                "label": "fruit",
+                "x": 1144,
+                "y": 440
+            },
+            {
+                "label": "bomb",
+                "x": 979,
+                "y": 423
+            },
+            {
+                "label": "fruit",
+                "x": 1064,
+                "y": 346
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.505418,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1446,
+                "y": 936
+            },
+            {
+                "label": "bomb",
+                "x": 1014,
+                "y": 519
+            },
+            {
+                "label": "fruit",
+                "x": 940,
+                "y": 735
+            },
+            {
+                "label": "fruit",
+                "x": 1169,
+                "y": 1059
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.6176226,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1068,
+                "y": 796
+            },
+            {
+                "label": "bomb",
+                "x": 1017,
+                "y": 614
+            },
+            {
+                "label": "fruit",
+                "x": 898,
+                "y": 965
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.7316828,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1052,
+                "y": 776
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.8602061,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1064,
+                "y": 920
+            },
+            {
+                "label": "bomb",
+                "x": 1100,
+                "y": 79
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596902.973817,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1084,
+                "y": 215
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596903.084804,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1082,
+                "y": 334
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596903.2229323,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1065,
+                "y": 519
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596903.3427129,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1054,
+                "y": 745
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596903.45498,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1052,
+                "y": 937
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596904.8328896,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1085,
+                "y": 1046
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596904.9487245,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1066,
+                "y": 930
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.0754366,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1049,
+                "y": 742
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.1818058,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1034,
+                "y": 624
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.3038974,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1019,
+                "y": 492
+            },
+            {
+                "label": "fruit",
+                "x": 1030,
+                "y": 1007
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.4182434,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1031,
+                "y": 858
+            },
+            {
+                "label": "fruit",
+                "x": 1010,
+                "y": 413
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.5451963,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1033,
+                "y": 668
+            },
+            {
+                "label": "fruit",
+                "x": 992,
+                "y": 345
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.6618147,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1044,
+                "y": 512
+            },
+            {
+                "label": "fruit",
+                "x": 947,
+                "y": 250
+            },
+            {
+                "label": "fruit",
+                "x": 957,
+                "y": 304
+            },
+            {
+                "label": "bomb",
+                "x": 940,
+                "y": 1045
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.7791913,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 915,
+                "y": 964
+            },
+            {
+                "label": "fruit",
+                "x": 1045,
+                "y": 434
+            },
+            {
+                "label": "fruit",
+                "x": 905,
+                "y": 256
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596905.8806849,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 877,
+                "y": 842
+            },
+            {
+                "label": "fruit",
+                "x": 1051,
+                "y": 340
+            },
+            {
+                "label": "fruit",
+                "x": 1057,
+                "y": 564
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.003747,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 820,
+                "y": 392
+            },
+            {
+                "label": "fruit",
+                "x": 1078,
+                "y": 783
+            },
+            {
+                "label": "bomb",
+                "x": 867,
+                "y": 672
+            },
+            {
+                "label": "fruit",
+                "x": 1054,
+                "y": 264
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.11541,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1059,
+                "y": 229
+            },
+            {
+                "label": "bomb",
+                "x": 826,
+                "y": 569
+            },
+            {
+                "label": "fruit",
+                "x": 1093,
+                "y": 1027
+            },
+            {
+                "label": "fruit",
+                "x": 776,
+                "y": 1034
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.2392976,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1062,
+                "y": 208
+            },
+            {
+                "label": "fruit",
+                "x": 772,
+                "y": 921
+            },
+            {
+                "label": "bomb",
+                "x": 804,
+                "y": 462
+            },
+            {
+                "label": "fruit",
+                "x": 817,
+                "y": 921
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.364727,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1069,
+                "y": 219
+            },
+            {
+                "label": "fruit",
+                "x": 864,
+                "y": 762
+            },
+            {
+                "label": "bomb",
+                "x": 756,
+                "y": 397
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.502181,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1075,
+                "y": 266
+            },
+            {
+                "label": "fruit",
+                "x": 901,
+                "y": 639
+            },
+            {
+                "label": "bomb",
+                "x": 715,
+                "y": 356
+            },
+            {
+                "label": "fruit",
+                "x": 614,
+                "y": 1011
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.6156533,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 625,
+                "y": 868
+            },
+            {
+                "label": "fruit",
+                "x": 925,
+                "y": 553
+            },
+            {
+                "label": "bomb",
+                "x": 677,
+                "y": 337
+            },
+            {
+                "label": "fruit",
+                "x": 1084,
+                "y": 334
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.7309535,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 614,
+                "y": 363
+            },
+            {
+                "label": "fruit",
+                "x": 644,
+                "y": 644
+            },
+            {
+                "label": "fruit",
+                "x": 960,
+                "y": 499
+            },
+            {
+                "label": "fruit",
+                "x": 1094,
+                "y": 485
+            },
+            {
+                "label": "fruit",
+                "x": 1069,
+                "y": 487
+            },
+            {
+                "label": "fruit",
+                "x": 1107,
+                "y": 253
+            },
+            {
+                "label": "fruit",
+                "x": 1070,
+                "y": 463
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.8465822,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 582,
+                "y": 393
+            },
+            {
+                "label": "fruit",
+                "x": 997,
+                "y": 481
+            },
+            {
+                "label": "fruit",
+                "x": 1106,
+                "y": 595
+            },
+            {
+                "label": "fruit",
+                "x": 655,
+                "y": 520
+            },
+            {
+                "label": "fruit",
+                "x": 1111,
+                "y": 294
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596906.9846337,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 519,
+                "y": 469
+            },
+            {
+                "label": "fruit",
+                "x": 1112,
+                "y": 825
+            },
+            {
+                "label": "bomb",
+                "x": 579,
+                "y": 916
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.1145418,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1139,
+                "y": 544
+            },
+            {
+                "label": "bomb",
+                "x": 456,
+                "y": 548
+            },
+            {
+                "label": "bomb",
+                "x": 612,
+                "y": 768
+            },
+            {
+                "label": "fruit",
+                "x": 1118,
+                "y": 1037
+            },
+            {
+                "label": "fruit",
+                "x": 680,
+                "y": 338
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.238637,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1138,
+                "y": 876
+            },
+            {
+                "label": "bomb",
+                "x": 658,
+                "y": 617
+            },
+            {
+                "label": "fruit",
+                "x": 695,
+                "y": 268
+            },
+            {
+                "label": "bomb",
+                "x": 376,
+                "y": 692
+            },
+            {
+                "label": "fruit",
+                "x": 1177,
+                "y": 636
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.3692148,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 291,
+                "y": 853
+            },
+            {
+                "label": "bomb",
+                "x": 707,
+                "y": 491
+            },
+            {
+                "label": "fruit",
+                "x": 1274,
+                "y": 961
+            },
+            {
+                "label": "fruit",
+                "x": 709,
+                "y": 228
+            },
+            {
+                "label": "fruit",
+                "x": 1196,
+                "y": 801
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.4787636,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 727,
+                "y": 391
+            },
+            {
+                "label": "bomb",
+                "x": 256,
+                "y": 992
+            },
+            {
+                "label": "fruit",
+                "x": 937,
+                "y": 651
+            },
+            {
+                "label": "fruit",
+                "x": 1285,
+                "y": 818
+            },
+            {
+                "label": "fruit",
+                "x": 1199,
+                "y": 986
+            },
+            {
+                "label": "fruit",
+                "x": 722,
+                "y": 221
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.5973985,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 914,
+                "y": 857
+            },
+            {
+                "label": "fruit",
+                "x": 1298,
+                "y": 680
+            },
+            {
+                "label": "fruit",
+                "x": 736,
+                "y": 240
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.7152762,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1323,
+                "y": 542
+            },
+            {
+                "label": "fruit",
+                "x": 926,
+                "y": 1027
+            },
+            {
+                "label": "fruit",
+                "x": 718,
+                "y": 271
+            },
+            {
+                "label": "fruit",
+                "x": 707,
+                "y": 232
+            },
+            {
+                "label": "fruit",
+                "x": 736,
+                "y": 295
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.8392768,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 886,
+                "y": 846
+            },
+            {
+                "label": "fruit",
+                "x": 658,
+                "y": 403
+            },
+            {
+                "label": "fruit",
+                "x": 1345,
+                "y": 444
+            },
+            {
+                "label": "fruit",
+                "x": 840,
+                "y": 226
+            },
+            {
+                "label": "fruit",
+                "x": 829,
+                "y": 282
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596907.9645705,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 620,
+                "y": 575
+            },
+            {
+                "label": "bomb",
+                "x": 940,
+                "y": 561
+            },
+            {
+                "label": "fruit",
+                "x": 1356,
+                "y": 365
+            },
+            {
+                "label": "fruit",
+                "x": 857,
+                "y": 666
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.0816677,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1066,
+                "y": 955
+            },
+            {
+                "label": "fruit",
+                "x": 827,
+                "y": 578
+            },
+            {
+                "label": "fruit",
+                "x": 973,
+                "y": 486
+            },
+            {
+                "label": "fruit",
+                "x": 1371,
+                "y": 334
+            },
+            {
+                "label": "fruit",
+                "x": 592,
+                "y": 767
+            },
+            {
+                "label": "bomb",
+                "x": 636,
+                "y": 1045
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.2015545,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1419,
+                "y": 357
+            },
+            {
+                "label": "bomb",
+                "x": 613,
+                "y": 962
+            },
+            {
+                "label": "fruit",
+                "x": 1053,
+                "y": 833
+            },
+            {
+                "label": "fruit",
+                "x": 809,
+                "y": 497
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.3162014,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1356,
+                "y": 318
+            },
+            {
+                "label": "bomb",
+                "x": 515,
+                "y": 791
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.4420075,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1473,
+                "y": 379
+            },
+            {
+                "label": "bomb",
+                "x": 609,
+                "y": 702
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.5518806,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 579,
+                "y": 558
+            },
+            {
+                "label": "fruit",
+                "x": 905,
+                "y": 1012
+            },
+            {
+                "label": "fruit",
+                "x": 1415,
+                "y": 306
+            },
+            {
+                "label": "fruit",
+                "x": 1471,
+                "y": 503
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.670104,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 910,
+                "y": 882
+            },
+            {
+                "label": "bomb",
+                "x": 557,
+                "y": 458
+            },
+            {
+                "label": "fruit",
+                "x": 678,
+                "y": 369
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.7818346,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 875,
+                "y": 730
+            },
+            {
+                "label": "bomb",
+                "x": 503,
+                "y": 362
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596908.8942938,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 898,
+                "y": 657
+            },
+            {
+                "label": "bomb",
+                "x": 422,
+                "y": 378
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.0039046,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1352,
+                "y": 967
+            },
+            {
+                "label": "fruit",
+                "x": 911,
+                "y": 588
+            },
+            {
+                "label": "fruit",
+                "x": 537,
+                "y": 510
+            },
+            {
+                "label": "bomb",
+                "x": 372,
+                "y": 367
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.132223,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 536,
+                "y": 582
+            },
+            {
+                "label": "fruit",
+                "x": 948,
+                "y": 527
+            },
+            {
+                "label": "bomb",
+                "x": 333,
+                "y": 365
+            },
+            {
+                "label": "fruit",
+                "x": 1395,
+                "y": 835
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.2475793,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 959,
+                "y": 483
+            },
+            {
+                "label": "fruit",
+                "x": 489,
+                "y": 708
+            },
+            {
+                "label": "fruit",
+                "x": 1413,
+                "y": 693
+            },
+            {
+                "label": "bomb",
+                "x": 258,
+                "y": 387
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.3693564,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 1063,
+                "y": 992
+            },
+            {
+                "label": "bomb",
+                "x": 195,
+                "y": 458
+            },
+            {
+                "label": "fruit",
+                "x": 450,
+                "y": 910
+            },
+            {
+                "label": "fruit",
+                "x": 942,
+                "y": 430
+            },
+            {
+                "label": "fruit",
+                "x": 1437,
+                "y": 588
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.4840648,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 145,
+                "y": 535
+            },
+            {
+                "label": "bomb",
+                "x": 1048,
+                "y": 882
+            },
+            {
+                "label": "fruit",
+                "x": 1455,
+                "y": 537
+            },
+            {
+                "label": "fruit",
+                "x": 921,
+                "y": 385
+            },
+            {
+                "label": "fruit",
+                "x": 1065,
+                "y": 557
+            },
+            {
+                "label": "fruit",
+                "x": 420,
+                "y": 1011
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.6012971,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 903,
+                "y": 402
+            },
+            {
+                "label": "bomb",
+                "x": 85,
+                "y": 671
+            },
+            {
+                "label": "fruit",
+                "x": 1479,
+                "y": 487
+            },
+            {
+                "label": "fruit",
+                "x": 1106,
+                "y": 660
+            },
+            {
+                "label": "bomb",
+                "x": 1036,
+                "y": 751
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.7147818,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 897,
+                "y": 466
+            },
+            {
+                "label": "bomb",
+                "x": 62,
+                "y": 818
+            },
+            {
+                "label": "fruit",
+                "x": 1148,
+                "y": 782
+            },
+            {
+                "label": "fruit",
+                "x": 1498,
+                "y": 475
+            },
+            {
+                "label": "fruit",
+                "x": 818,
+                "y": 1006
+            },
+            {
+                "label": "bomb",
+                "x": 1020,
+                "y": 641
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.8425705,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 792,
+                "y": 830
+            },
+            {
+                "label": "fruit",
+                "x": 1521,
+                "y": 478
+            },
+            {
+                "label": "fruit",
+                "x": 886,
+                "y": 656
+            },
+            {
+                "label": "fruit",
+                "x": 1200,
+                "y": 1024
+            },
+            {
+                "label": "bomb",
+                "x": 1001,
+                "y": 578
+            },
+            {
+                "label": "bomb",
+                "x": 50,
+                "y": 984
+            },
+            {
+                "label": "fruit",
+                "x": 390,
+                "y": 1007
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596909.9656668,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 765,
+                "y": 654
+            },
+            {
+                "label": "bomb",
+                "x": 997,
+                "y": 509
+            },
+            {
+                "label": "fruit",
+                "x": 866,
+                "y": 982
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.0837219,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 743,
+                "y": 540
+            },
+            {
+                "label": "bomb",
+                "x": 959,
+                "y": 471
+            },
+            {
+                "label": "fruit",
+                "x": 1619,
+                "y": 575
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.1919854,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 724,
+                "y": 446
+            },
+            {
+                "label": "fruit",
+                "x": 1039,
+                "y": 1001
+            },
+            {
+                "label": "bomb",
+                "x": 938,
+                "y": 469
+            },
+            {
+                "label": "fruit",
+                "x": 1651,
+                "y": 657
+            },
+            {
+                "label": "fruit",
+                "x": 1428,
+                "y": 559
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.324705,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1359,
+                "y": 679
+            },
+            {
+                "label": "fruit",
+                "x": 992,
+                "y": 852
+            },
+            {
+                "label": "fruit",
+                "x": 1714,
+                "y": 825
+            },
+            {
+                "label": "fruit",
+                "x": 695,
+                "y": 345
+            },
+            {
+                "label": "bomb",
+                "x": 903,
+                "y": 494
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.4362743,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1301,
+                "y": 913
+            },
+            {
+                "label": "fruit",
+                "x": 946,
+                "y": 725
+            },
+            {
+                "label": "fruit",
+                "x": 668,
+                "y": 279
+            },
+            {
+                "label": "bomb",
+                "x": 891,
+                "y": 547
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.5717337,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 863,
+                "y": 613
+            },
+            {
+                "label": "bomb",
+                "x": 849,
+                "y": 925
+            },
+            {
+                "label": "fruit",
+                "x": 652,
+                "y": 245
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.703328,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 622,
+                "y": 248
+            },
+            {
+                "label": "bomb",
+                "x": 828,
+                "y": 724
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.8226678,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 712,
+                "y": 825
+            },
+            {
+                "label": "fruit",
+                "x": 597,
+                "y": 266
+            },
+            {
+                "label": "bomb",
+                "x": 875,
+                "y": 629
+            },
+            {
+                "label": "fruit",
+                "x": 392,
+                "y": 1015
+            },
+            {
+                "label": "fruit",
+                "x": 822,
+                "y": 537
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596910.9568787,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 567,
+                "y": 318
+            },
+            {
+                "label": "fruit",
+                "x": 775,
+                "y": 524
+            },
+            {
+                "label": "bomb",
+                "x": 928,
+                "y": 510
+            },
+            {
+                "label": "fruit",
+                "x": 784,
+                "y": 990
+            },
+            {
+                "label": "bomb",
+                "x": 632,
+                "y": 985
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.0870352,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 728,
+                "y": 550
+            },
+            {
+                "label": "bomb",
+                "x": 997,
+                "y": 444
+            },
+            {
+                "label": "fruit",
+                "x": 829,
+                "y": 827
+            },
+            {
+                "label": "fruit",
+                "x": 539,
+                "y": 431
+            },
+            {
+                "label": "fruit",
+                "x": 557,
+                "y": 300
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.2161,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 543,
+                "y": 555
+            },
+            {
+                "label": "fruit",
+                "x": 575,
+                "y": 289
+            },
+            {
+                "label": "fruit",
+                "x": 677,
+                "y": 607
+            },
+            {
+                "label": "bomb",
+                "x": 1046,
+                "y": 399
+            },
+            {
+                "label": "fruit",
+                "x": 889,
+                "y": 690
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.3382142,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 631,
+                "y": 694
+            },
+            {
+                "label": "fruit",
+                "x": 587,
+                "y": 372
+            },
+            {
+                "label": "bomb",
+                "x": 1121,
+                "y": 390
+            },
+            {
+                "label": "fruit",
+                "x": 527,
+                "y": 753
+            },
+            {
+                "label": "fruit",
+                "x": 855,
+                "y": 486
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.4508307,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 515,
+                "y": 956
+            },
+            {
+                "label": "fruit",
+                "x": 586,
+                "y": 473
+            },
+            {
+                "label": "fruit",
+                "x": 600,
+                "y": 703
+            },
+            {
+                "label": "bomb",
+                "x": 1276,
+                "y": 203
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.5733173,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 545,
+                "y": 864
+            },
+            {
+                "label": "bomb",
+                "x": 1478,
+                "y": 86
+            },
+            {
+                "label": "fruit",
+                "x": 574,
+                "y": 699
+            },
+            {
+                "label": "fruit",
+                "x": 569,
+                "y": 665
+            },
+            {
+                "label": "fruit",
+                "x": 945,
+                "y": 589
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.681686,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 442,
+                "y": 986
+            },
+            {
+                "label": "fruit",
+                "x": 458,
+                "y": 674
+            },
+            {
+                "label": "fruit",
+                "x": 1036,
+                "y": 722
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.8060496,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 402,
+                "y": 787
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596911.9190037,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 339,
+                "y": 936
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596913.413682,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1122,
+                "y": 957
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596913.5316188,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1079,
+                "y": 777
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596913.7693138,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 691,
+                "y": 1014
+            },
+            {
+                "label": "fruit",
+                "x": 1029,
+                "y": 490
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596913.8784912,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 760,
+                "y": 909
+            },
+            {
+                "label": "fruit",
+                "x": 994,
+                "y": 451
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.003373,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 809,
+                "y": 738
+            },
+            {
+                "label": "fruit",
+                "x": 962,
+                "y": 410
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.1228786,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 838,
+                "y": 641
+            },
+            {
+                "label": "fruit",
+                "x": 925,
+                "y": 338
+            },
+            {
+                "label": "fruit",
+                "x": 917,
+                "y": 446
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.2441535,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 616,
+                "y": 968
+            },
+            {
+                "label": "fruit",
+                "x": 888,
+                "y": 628
+            },
+            {
+                "label": "fruit",
+                "x": 818,
+                "y": 542
+            },
+            {
+                "label": "fruit",
+                "x": 836,
+                "y": 567
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.3481472,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 635,
+                "y": 829
+            },
+            {
+                "label": "fruit",
+                "x": 891,
+                "y": 727
+            },
+            {
+                "label": "fruit",
+                "x": 900,
+                "y": 692
+            },
+            {
+                "label": "fruit",
+                "x": 818,
+                "y": 514
+            },
+            {
+                "label": "fruit",
+                "x": 889,
+                "y": 350
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.4703403,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 926,
+                "y": 764
+            },
+            {
+                "label": "bomb",
+                "x": 681,
+                "y": 666
+            },
+            {
+                "label": "fruit",
+                "x": 831,
+                "y": 1035
+            },
+            {
+                "label": "fruit",
+                "x": 862,
+                "y": 518
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.5826974,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 851,
+                "y": 736
+            },
+            {
+                "label": "fruit",
+                "x": 995,
+                "y": 1021
+            },
+            {
+                "label": "fruit",
+                "x": 945,
+                "y": 899
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.7092004,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1024,
+                "y": 825
+            },
+            {
+                "label": "bomb",
+                "x": 377,
+                "y": 965
+            },
+            {
+                "label": "fruit",
+                "x": 828,
+                "y": 868
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596914.8218741,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1045,
+                "y": 685
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.0693858,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1175,
+                "y": 867
+            },
+            {
+                "label": "fruit",
+                "x": 1050,
+                "y": 389
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.197834,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1177,
+                "y": 703
+            },
+            {
+                "label": "fruit",
+                "x": 1035,
+                "y": 335
+            },
+            {
+                "label": "fruit",
+                "x": 1120,
+                "y": 614
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.315616,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1073,
+                "y": 388
+            },
+            {
+                "label": "fruit",
+                "x": 1181,
+                "y": 756
+            },
+            {
+                "label": "fruit",
+                "x": 1220,
+                "y": 633
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.4309711,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 551,
+                "y": 984
+            },
+            {
+                "label": "fruit",
+                "x": 1128,
+                "y": 560
+            },
+            {
+                "label": "fruit",
+                "x": 1183,
+                "y": 1022
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.556048,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 984,
+                "y": 658
+            },
+            {
+                "label": "fruit",
+                "x": 1131,
+                "y": 424
+            },
+            {
+                "label": "fruit",
+                "x": 1206,
+                "y": 557
+            },
+            {
+                "label": "bomb",
+                "x": 487,
+                "y": 961
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.680683,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1293,
+                "y": 673
+            },
+            {
+                "label": "fruit",
+                "x": 1140,
+                "y": 426
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.8021379,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1311,
+                "y": 821
+            },
+            {
+                "label": "fruit",
+                "x": 1092,
+                "y": 480
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596915.9411368,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1357,
+                "y": 1046
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596916.285432,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 754,
+                "y": 507
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596916.3925257,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 751,
+                "y": 439
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596916.5177467,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 750,
+                "y": 399
+            },
+            {
+                "label": "fruit",
+                "x": 941,
+                "y": 1023
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596916.6267323,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 749,
+                "y": 370
+            },
+            {
+                "label": "bomb",
+                "x": 618,
+                "y": 912
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596916.7556715,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 600,
+                "y": 767
+            },
+            {
+                "label": "fruit",
+                "x": 747,
+                "y": 381
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596916.8732336,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 590,
+                "y": 600
+            },
+            {
+                "label": "fruit",
+                "x": 743,
+                "y": 414
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.000786,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 560,
+                "y": 474
+            },
+            {
+                "label": "fruit",
+                "x": 657,
+                "y": 992
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.115339,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 641,
+                "y": 841
+            },
+            {
+                "label": "fruit",
+                "x": 741,
+                "y": 562
+            },
+            {
+                "label": "bomb",
+                "x": 538,
+                "y": 406
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.2287946,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 537,
+                "y": 331
+            },
+            {
+                "label": "fruit",
+                "x": 740,
+                "y": 686
+            },
+            {
+                "label": "fruit",
+                "x": 616,
+                "y": 685
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.3487935,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 529,
+                "y": 296
+            },
+            {
+                "label": "fruit",
+                "x": 735,
+                "y": 793
+            },
+            {
+                "label": "fruit",
+                "x": 599,
+                "y": 596
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.469426,
+        "detections": [
+            {
+                "label": "bomb",
+                "x": 517,
+                "y": 284
+            },
+            {
+                "label": "fruit",
+                "x": 879,
+                "y": 941
+            },
+            {
+                "label": "fruit",
+                "x": 578,
+                "y": 464
+            },
+            {
+                "label": "fruit",
+                "x": 733,
+                "y": 982
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.5758402,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 882,
+                "y": 812
+            },
+            {
+                "label": "bomb",
+                "x": 501,
+                "y": 289
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.685295,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 885,
+                "y": 707
+            },
+            {
+                "label": "fruit",
+                "x": 542,
+                "y": 345
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.8034585,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 518,
+                "y": 301
+            },
+            {
+                "label": "fruit",
+                "x": 898,
+                "y": 589
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596917.9284797,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 498,
+                "y": 296
+            },
+            {
+                "label": "fruit",
+                "x": 903,
+                "y": 507
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.0469453,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 912,
+                "y": 468
+            },
+            {
+                "label": "fruit",
+                "x": 480,
+                "y": 312
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.1745672,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 918,
+                "y": 435
+            },
+            {
+                "label": "fruit",
+                "x": 460,
+                "y": 358
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.3050816,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 434,
+                "y": 454
+            },
+            {
+                "label": "fruit",
+                "x": 948,
+                "y": 435
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.4203117,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 421,
+                "y": 532
+            },
+            {
+                "label": "fruit",
+                "x": 960,
+                "y": 384
+            },
+            {
+                "label": "fruit",
+                "x": 913,
+                "y": 537
+            },
+            {
+                "label": "fruit",
+                "x": 924,
+                "y": 396
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.5309772,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 400,
+                "y": 632
+            },
+            {
+                "label": "fruit",
+                "x": 897,
+                "y": 589
+            },
+            {
+                "label": "fruit",
+                "x": 978,
+                "y": 369
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.6539235,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 901,
+                "y": 753
+            },
+            {
+                "label": "fruit",
+                "x": 380,
+                "y": 800
+            },
+            {
+                "label": "fruit",
+                "x": 1013,
+                "y": 407
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.7625885,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1050,
+                "y": 548
+            },
+            {
+                "label": "fruit",
+                "x": 357,
+                "y": 987
+            },
+            {
+                "label": "fruit",
+                "x": 892,
+                "y": 1010
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596918.8926542,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1068,
+                "y": 825
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596923.2350218,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 908,
+                "y": 767
+            },
+            {
+                "label": "fruit",
+                "x": 1001,
+                "y": 767
+            }
+        ]
+    },
+    {
+        "timestamp": 1774596923.349073,
+        "detections": [
+            {
+                "label": "fruit",
+                "x": 1015,
+                "y": 770
+            },
+            {
+                "label": "fruit",
+                "x": 882,
+                "y": 764
+            }
+        ]
+    }
+]
